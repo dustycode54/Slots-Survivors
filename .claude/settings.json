@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv test_*.py tests/)",
+      "Bash(git mv *)"
+    ]
+  }
+}

@@ -14,3 +14,4 @@ The game runs locally. It also serves as a showcase of core data structures (set
 ## Docs
 - [Project Overview](docs/project_overview.md)
 - [pygame Study Guide](docs/pygame_info.md)
+- [Implementation Plan](docs/implementation.md)
